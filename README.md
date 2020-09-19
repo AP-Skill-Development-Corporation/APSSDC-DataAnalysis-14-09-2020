@@ -16,4 +16,6 @@
 
 [Day4 Recording session link](https://transcripts.gotomeeting.com/#/s/a41e70e8d2594cdbaecc3e9a6fb5e5cbf5018459a8228dfbf92e3f593e9d848a)
 
+[Day5 Recording session link](https://transcripts.gotomeeting.com/#/s/184ec6509296da738724342b2699e6fe64a000f5d159706a4c77d8f0369e27ea)
+
 
