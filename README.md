@@ -21,3 +21,4 @@
 [Day6 Recording session link](https://transcripts.gotomeeting.com/#/s/99295eeb1e2f2fc0b0ac36283f96009bd173cbccc07b4809350e464b0bc14992)
 
 
+
