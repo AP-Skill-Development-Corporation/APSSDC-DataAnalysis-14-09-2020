@@ -24,5 +24,3 @@
 
 [Day8 Recording session link](https://transcripts.gotomeeting.com/#/s/23018f5524ae7c4a6523394142889db6053e3560e5db5f123c68586cd1ebeb3d)
 
-
-
